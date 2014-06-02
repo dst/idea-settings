@@ -1,0 +1,3 @@
+/**
+ * @author Dariusz Stefanski
+ */
