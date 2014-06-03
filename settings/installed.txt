@@ -1,1 +1,5 @@
 com.intellij
+BashSupport
+Lombook Plugin
+NodeJS
+Pythonid
