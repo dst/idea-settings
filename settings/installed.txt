@@ -3,3 +3,7 @@ BashSupport
 Lombook Plugin
 NodeJS
 Pythonid
+EclipseCodeFormatter
+FindBugs-IDEA
+Key promoter
+CheckStyle-IDEA
