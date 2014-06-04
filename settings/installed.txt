@@ -1,9 +1,10 @@
 com.intellij
-BashSupport
 Lombook Plugin
 NodeJS
-Pythonid
+net.nicoulaj.idea.markdown
 EclipseCodeFormatter
 FindBugs-IDEA
+BashSupport
 Key promoter
 CheckStyle-IDEA
+Pythonid
