@@ -12,7 +12,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_EXPRESSION" value="false" />
-      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_DECLARATION" value="true" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
       <option name="COMPLETION" value="false" />
@@ -33,7 +33,7 @@
       <option name="GROOVY" value="false" />
       <option name="GROOVY_EXPRESSION" value="false" />
       <option name="GROOVY_STATEMENT" value="true" />
-      <option name="GROOVY_DECLARATION" value="false" />
+      <option name="GROOVY_DECLARATION" value="true" />
       <option name="OGNL" value="false" />
       <option name="MAVEN" value="false" />
       <option name="ASPECTJ" value="false" />
