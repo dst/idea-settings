@@ -6,5 +6,6 @@ EclipseCodeFormatter
 FindBugs-IDEA
 BashSupport
 Key promoter
+Spock Framework Enhancements
 CheckStyle-IDEA
 Pythonid
