@@ -1,4 +1,4 @@
-def "${NAME}"() {
+def 'should ${NAME}'() {
     given:
     ${BODY}
     when:
