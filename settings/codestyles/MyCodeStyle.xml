@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <code_scheme name="MyCodeStyle">
   <option name="IMPORT_LAYOUT_TABLE">
     <value>
@@ -10,6 +9,7 @@
       <package name="" withSubpackages="true" static="true" />
     </value>
   </option>
+  <option name="RIGHT_MARGIN" value="100" />
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -19,4 +19,3 @@
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
-
