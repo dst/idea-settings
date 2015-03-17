@@ -1,11 +1,11 @@
+BashSupport
+CheckStyle-IDEA
 com.intellij
-Lombook Plugin
-NodeJS
-net.nicoulaj.idea.markdown
 EclipseCodeFormatter
 FindBugs-IDEA
-BashSupport
 Key promoter
-Spock Framework Enhancements
-CheckStyle-IDEA
+Lombook Plugin
+net.nicoulaj.idea.markdown
+NodeJS
 Pythonid
+Spock Framework Enhancements
