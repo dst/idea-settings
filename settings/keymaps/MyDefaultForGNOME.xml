@@ -1,4 +1,4 @@
-<keymap version="1" name="Default for GNOME my" parent="Default for GNOME">
+<keymap version="1" name="MyDefaultForGNOME" parent="Default for GNOME">
   <action id="Macro.Save with formatting and organizing imports">
     <keyboard-shortcut first-keystroke="control S" />
   </action>
