@@ -1,11 +1,14 @@
 BashSupport
+Batch Scripts Support
 CheckStyle-IDEA
 com.intellij
 EclipseCodeFormatter
 FindBugs-IDEA
+GrepConsole
 Key promoter
 Lombook Plugin
 net.nicoulaj.idea.markdown
 NodeJS
+org.jetbrains.plugins.ruby
 Pythonid
 Spock Framework Enhancements
