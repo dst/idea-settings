@@ -7,8 +7,10 @@ FindBugs-IDEA
 GrepConsole
 Key promoter
 Lombook Plugin
+mobi.hsz.idea.latex
 net.nicoulaj.idea.markdown
 NodeJS
+org.intellij.scala
 org.jetbrains.plugins.ruby
 Pythonid
 Spock Framework Enhancements
