@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <templateSet group="my">
   <template name="todo" value="//TODO(dst), $DATE$: $COMMENT$" description="Creates TODO comment" toReformat="false" toShortenFQNames="true">
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
@@ -20,28 +19,59 @@
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="HAML" value="false" />
       <option name="JSP" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="Python" value="false" />
-      <option name="Django" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="GROOVY" value="false" />
       <option name="GROOVY_EXPRESSION" value="false" />
       <option name="GROOVY_STATEMENT" value="true" />
       <option name="GROOVY_DECLARATION" value="true" />
-      <option name="OGNL" value="false" />
       <option name="MAVEN" value="false" />
       <option name="ASPECTJ" value="false" />
-      <option name="ACTION_SCRIPT" value="false" />
-      <option name="MXML" value="false" />
-      <option name="GSP" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="review" value="//REVIEW(dst): $COMMENT$" description="Creates REVIEW comment" toReformat="false" toShortenFQNames="true">
+    <variable name="COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JSP" value="false" />
+      <option name="SQL" value="false" />
+      <option name="ColdFusion" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="GROOVY" value="true" />
+      <option name="GROOVY_EXPRESSION" value="true" />
+      <option name="GROOVY_STATEMENT" value="true" />
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="SPOCK_SPECIFICATION" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="ASPECTJ" value="false" />
+      <option name="CoffeeScript" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
 </templateSet>
-
