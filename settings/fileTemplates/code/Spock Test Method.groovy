@@ -1,7 +1,7 @@
 def 'should ${NAME}'() {
     given:
-    ${BODY}
+       ${BODY}
     when:
-
+    
     then:
 }
