@@ -1,5 +1,5 @@
 @org.junit.Test
-public void should${NAME}() throws Exception {
+public void should${NAME}() {
     // given:
     ${BODY}
     // when:
