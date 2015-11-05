@@ -1,4 +1,4 @@
 /**
  * @author Dariusz Stefanski
- * @date ${DAY} ${MONTH_NAME_SHORT} ${YEAR}
+ * @since ${DAY} ${MONTH_NAME_SHORT} ${YEAR}
  */
